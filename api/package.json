@@ -1,8 +1,0 @@
-{
-  "name": "mercadopago-api",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "mercadopago": "^2.0.0"
-  }
-}
