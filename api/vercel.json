@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/create-payment", "destination": "/api/create-payment" },
+    { "source": "/webhook", "destination": "/api/webhook" },
+    { "source": "/payment-status", "destination": "/api/payment-status" }
+  ]
+}
